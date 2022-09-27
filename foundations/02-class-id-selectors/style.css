@@ -1,0 +1,19 @@
+.odd-elements {
+    background-color: lightpink;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.biggie {
+    font-size: 24px;
+}
+
+#ele2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#ele4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
